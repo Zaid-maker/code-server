@@ -1,5 +1,5 @@
 # Start from the code-server Debian base image
-FROM codercom/code-server:4.22.1
+FROM codercom/code-server:4.23.0
 
 USER coder
 
